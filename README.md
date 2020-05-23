@@ -9,8 +9,8 @@ You can watch at full data about all vehicles.
 
 ### Screenshots
 <img src="https://github.com/EliYakubov7/Garage-Management-System/blob/master/screenshots/main_menu.png" width="700" >
+<img src="https://github.com/EliYakubov7/Garage-Management-System/blob/master/screenshots/display_full_data.png.png" width="700" >
 <img src="https://github.com/EliYakubov7/Garage-Management-System/blob/master/screenshots/add_new_vehicle.png" width="700" >
-<img src="https://github.com/EliYakubov7/Garage-Management-System/blob/master/screenshots/display_full_data.png" width="700" >
 
 ## Authors
 
